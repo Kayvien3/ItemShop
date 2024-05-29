@@ -5,8 +5,9 @@
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
-    "price": 200
+    "itemGrants": ["EID_SpeedDial]
+    "price": 500
+
   },
   "daily3": {
     "itemGrants": ["AthenaGlider:Glider_ID_209_DonutPlate"],
@@ -33,7 +34,7 @@
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
+    "itemGrants": [AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
     "price": 1500
   }
 }
